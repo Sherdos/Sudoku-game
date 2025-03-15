@@ -17,6 +17,10 @@
 	
 	![image](https://github.com/user-attachments/assets/57036f51-9b56-427b-917d-73240efee9ef)
 
+	number of empty cells
+ 	easy - 30	
+  	medium - 40
+  	hard - 50
 
 - then choice the position and value for the cell which you want to fill or enter -1 to quit or -2 to use hint and open any cell you want.
 
